@@ -1,6 +1,9 @@
 <h1>Photogram</h1>
 <%= link_to "New Post", new_post_path %>
 <br>
-<%= @posts.each do |post| %>
-<%= link_to (image_tag post.image.url(:medium)), post_path(post) %>
+<% @posts.each do |post| %>
+<%= link_to (image_tag post.image.url(:medium), class:'img-responsive'), post_path(post) %>
+<br>
+<%= post.caption %>
+<br>
 <%end%>

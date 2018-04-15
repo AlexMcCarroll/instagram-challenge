@@ -1,0 +1,86 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/alexmccarroll/MakersWork/week-8/instagram-challenge/Photogram/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/alexmccarroll/MakersWork/week-8/instagram-challenge/Photogram/app/helpers/posts_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/alexmccarroll/MakersWork/week-8/instagram-challenge/Photogram/app/controllers/posts_controller.rb": [
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        2,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        null
+      ],
+      "/Users/alexmccarroll/MakersWork/week-8/instagram-challenge/Photogram/app/controllers/application_controller.rb": [
+        1,
+        null
+      ],
+      "/Users/alexmccarroll/MakersWork/week-8/instagram-challenge/Photogram/app/models/post.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/alexmccarroll/MakersWork/week-8/instagram-challenge/Photogram/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/alexmccarroll/MakersWork/week-8/instagram-challenge/Photogram/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/alexmccarroll/MakersWork/week-8/instagram-challenge/Photogram/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/alexmccarroll/MakersWork/week-8/instagram-challenge/Photogram/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/alexmccarroll/MakersWork/week-8/instagram-challenge/Photogram/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1523803772
+  }
+}
